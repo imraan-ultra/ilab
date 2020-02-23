@@ -54,3 +54,8 @@ body {
     padding: 5px;
     border-radius: 5px;
 }
+
+.modal-open .modal {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
